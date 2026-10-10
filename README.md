@@ -1,4 +1,6 @@
-<!-- <div align="center">
+<!-- 
+
+<div align="center">
 
 # 🔀 Este perfil mudou de endereço
 
@@ -42,7 +44,9 @@ Sou a mesma pessoa, com o mesmo trabalho e a mesma trajetória. Apenas o nome e 
 Links de repositórios, commits ou publicações que citem `marcosjrgm` podem estar desatualizados. Procure pelo mesmo projeto no perfil atual, [**github.com/marcos-grocha**](https://github.com/marcos-grocha), ou entre em contato pelo e-mail [gmarcos.dev@gmail.com](mailto:gmarcos.dev@gmail.com).
 
 ---
+
 -->
+
 <sub>🌐 **This account is no longer active.** Marcos Guimarães Rocha is now **Marcos Araujo Goulart**. The old handles `marcosjrgm`, `marcos.grocha` and `marcos-grocha` are being replaced by `goulartcore`, `gmarcos.dev` and `gmarcos-dev`. Find me at [github.com/marcos-grocha](https://github.com/marcos-grocha).</sub>
 
 <sub>Última atualização: outubro de 2026.</sub>
